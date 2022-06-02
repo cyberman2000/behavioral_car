@@ -1,0 +1,9 @@
+socketio
+eventlet
+numpy
+Flask
+keras
+base64
+io
+PIL
+opencv2
